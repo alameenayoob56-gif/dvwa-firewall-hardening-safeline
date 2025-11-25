@@ -176,8 +176,6 @@ Safeline dashboard
 Attack logs (SQLi, XSS detected)
 
 
-You can upload screenshots in a /screenshots folder.
-
 
 ---
 
